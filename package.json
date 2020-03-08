@@ -1,6 +1,6 @@
 {
   "name": "reactjs-persian-calendar-demo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -9,7 +9,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.4.0",
-    "reactjs-persian-calendar": "^0.2.6"
+    "reactjs-persian-calendar": "^0.2.7"
   },
   "scripts": {
     "start": "react-scripts start",

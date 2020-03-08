@@ -1,5 +1,5 @@
 
-![reactjs persian calendar](https://raw.githubusercontent.com/jsh1400/reactjs-persian-calendar/master/reactjs-persian-calendar.png)
+![reactjs persian calendar](https://raw.githubusercontent.com/jsh1400/reactjs-persian-calendar/master/docs/reactjs-persian-calendar.png)
 
 ```
 npm i reactjs-persian-calendar
