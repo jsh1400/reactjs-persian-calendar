@@ -1,4 +1,3 @@
-# reactjs-persian-calendar
 
 ![reactjs persian calendar](https://raw.githubusercontent.com/jsh1400/reactjs-persian-calendar/master/reactjs-persian-calendar.png)
 
@@ -30,4 +29,3 @@ render() {
     itemRender: [function]  change render any item in calendar,
 
 ---
->Javad Shariati <jsh1400@yahoo.com>
