@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  position: relative;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.option{
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: rgba(250,250,250,0.7);
+  padding: 10px;
+  text-align: left;
+  box-shadow: 1px 1px 2px #000;
+}
+
+.option div{
+  display: flex;
+  padding: 5px;
+  line-height: 22px;
+  font-size: 14px;
+}
+
+.option label{
+  width: 80px;
+  padding: 5px 0;
+}
