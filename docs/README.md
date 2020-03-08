@@ -24,8 +24,8 @@ render() {
 ### props
     locale:     [string]    'fa' or 'en',
     color:      [string]    '#660000' or 'red' or 'rgb(250,0,0)',
-    size:       [number]    30
-    onClick:    [function]  callback onClick on any item,
+    size:       [number]    30 size of calendar item
+    onClick:    [function]  callback onClick on any day item,
     itemRender: [function]  change render any item in calendar,
 
 ---
