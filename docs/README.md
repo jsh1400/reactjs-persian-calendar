@@ -13,7 +13,7 @@ import JCalendar from 'reactjs-persian-calendar'
 render() {
   <JCalendar 
       locale={'fa'} 
-      color={'#660000'}
+      color={'#000066'}
       size={30}
       onClick={console.log}
       itemRender={(key, item, children) => children}
